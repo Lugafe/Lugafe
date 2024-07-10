@@ -4,7 +4,7 @@ Lucas Gabriel Almeida Gomes
 Hello! My name is Lucas, I'm a student at PUC Minas and I dream to work with development 
 
 
-About me
+## About me
 
 📖 Computer Science, PUC Minas
 
@@ -12,7 +12,9 @@ About me
 
 🗣️Languages: I can speak Portuguese and English fluently
 
-Skills: Git C CPP Csharp HTML5 CSS3 VSCode
+## Skills
+Git C CPP Csharp HTML5 CSS3 VSCode
+![vs (1)](https://github.com/Lugafe/Lugafe/assets/78453863/32102612-9c6d-451b-a5d5-e807bbac3344)
 
 
 Contact me here:

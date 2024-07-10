@@ -1,16 +1,26 @@
 ## Hi there 👋
 Lucas Gabriel Almeida Gomes
+
 Hello! My name is Lucas, I'm a student at PUC Minas and I dream to work with development 
 
+
 About me
+
 📖 Computer Science, PUC Minas
+
 🌱 Current Activities: Studying C++, C, CSS and OpenGL
+
 🗣️Languages: I can speak Portuguese and English fluently
+
 Skills: Git C CPP Csharp HTML5 CSS3 VSCode
 
+
 Contact me here:
+
 Insta: Lugafe
+
 Email: lugafe2187@gmail.com
+
 Feel free to explore my repositories or get in touch with me! 
 
 

@@ -1,5 +1,15 @@
 ## Hi there 👋
+Lucas Gabriel Almeida Gomes
+Hello! My name is Lucas, I'm a student at PUC Minas and I dream to work with development 
 
+About me
+📖 Computer Science, PUC Minas
+🌱 Current Activities: Studying C++, C, CSS and OpenGL
+🗣️Languages: I can speak Portuguese and English fluently
+Skills
+Git C CPP Csharp HTML5 CSS3 VSCode
+Tools: Git, Blender, VSCode, Vim
+Proficient in hard surface modelling, procedural texturing and enviroment design
 <!--
 **Lugafe/Lugafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

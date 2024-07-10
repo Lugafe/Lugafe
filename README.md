@@ -14,11 +14,14 @@ Hello! My name is Lucas, I'm a student at PUC Minas and I dream to work with dev
 
 ## Skills
 Git C CPP Csharp HTML5 CSS3 VSCode
-<img src="https://github.com/Lugafe/Lugafe/assets/78453863/32102612-9c6d-451b-a5d5-e807bbac3344" alt="Descrição da Imagem" width="70">
+<img src="https://github.com/Lugafe/Lugafe/assets/78453863/32102612-9c6d-451b-a5d5-e807bbac3344" alt="Descrição da Imagem" width="50">
+<img src="https://github.com/Lugafe/Lugafe/assets/78453863/9547480e-a87a-4d3f-88e6-228de4e10e7e" alt="Descrição da Imagem" width="50">
+<img src="https://github.com/Lugafe/Lugafe/assets/78453863/54123bcd-43c1-4536-8e0b-7ac786e851c1" alt="Descrição da Imagem" width="50">
+<img src="https://github.com/Lugafe/Lugafe/assets/78453863/c55ea05f-d176-478e-a1a6-a8128f198273" alt="Descrição da Imagem" width="50">
+<img src="https://github.com/Lugafe/Lugafe/assets/78453863/6912b076-86af-469c-a9e1-3ebbfb21e609" alt="Descrição da Imagem" width="50">
+<img src="https://github.com/Lugafe/Lugafe/assets/78453863/244ab721-684f-46f5-bda6-cb3e5a9e5fd9" alt="Descrição da Imagem" width="50">
 
-
-
-Contact me here:
+## Contact me here:
 
 Insta: Lugafe
 

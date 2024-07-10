@@ -14,7 +14,7 @@ Hello! My name is Lucas, I'm a student at PUC Minas and I dream to work with dev
 
 ## Skills
 Git C CPP Csharp HTML5 CSS3 VSCode
-<img src="(https://github.com/Lugafe/Lugafe/assets/78453863/32102612-9c6d-451b-a5d5-e807bbac3344)" alt="Descrição da Imagem" width="200">
+<img src="https://github.com/Lugafe/Lugafe/assets/78453863/32102612-9c6d-451b-a5d5-e807bbac3344" alt="Descrição da Imagem" width="200">
 
 
 
